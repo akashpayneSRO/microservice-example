@@ -1,0 +1,9 @@
+{
+  "name": "listings-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-watch": "^7.0.0"
+  }
+}
